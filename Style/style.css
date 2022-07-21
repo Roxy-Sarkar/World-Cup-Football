@@ -1,0 +1,49 @@
+.banner {
+    display: flex;
+
+    background-color: #161616;
+    margin: 30px 110px 0px 100px;
+    border-radius: 15px;
+}
+
+.header-left {
+    margin: 50px 40px 0px 100px;
+    align-items: left;
+}
+
+.HeadLine {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+
+}
+
+.banner-text-left {
+    width: 600px;
+    color: white;
+}
+
+.Watch-live-in-Header {
+    color: white;
+    border: 6px solid red;
+    background-color: red;
+    white-space: nowrap;
+    margin: 0px 30px 50px 15px;
+    display: flex;
+    border-radius: 2px;
+
+}
+
+.fa-angle-right {
+    display: inline-block;
+    margin-left: 10%;
+}
+
+
+
+
+.banner-image {
+    width: 323px;
+    height: 380px;
+}
